@@ -32,7 +32,7 @@ export default function TopBar() {
           <div className="H-c-t">
             <a
               className="mail-link"
-              href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf"
+              href="https://drive.google.com/file/d/1pHzts6YSCUNjNAKmhvIV2Eya_MFwvHDW/view?usp=sharing"
             >
               resume
             </a>
